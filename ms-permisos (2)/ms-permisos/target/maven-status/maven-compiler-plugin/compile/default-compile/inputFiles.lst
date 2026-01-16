@@ -1,0 +1,15 @@
+C:\Users\Family\Desktop\ms-permisos (2)\ms-permisos\src\main\java\cl\edutech\ms_permisos\controller\PermisoController.java
+C:\Users\Family\Desktop\ms-permisos (2)\ms-permisos\src\main\java\cl\edutech\ms_permisos\controller\RolController.java
+C:\Users\Family\Desktop\ms-permisos (2)\ms-permisos\src\main\java\cl\edutech\ms_permisos\model\dto\PermisoRequestDTO.java
+C:\Users\Family\Desktop\ms-permisos (2)\ms-permisos\src\main\java\cl\edutech\ms_permisos\model\dto\RolRequestDTO.java
+C:\Users\Family\Desktop\ms-permisos (2)\ms-permisos\src\main\java\cl\edutech\ms_permisos\model\entity\PermisoEntity.java
+C:\Users\Family\Desktop\ms-permisos (2)\ms-permisos\src\main\java\cl\edutech\ms_permisos\model\entity\RolEntity.java
+C:\Users\Family\Desktop\ms-permisos (2)\ms-permisos\src\main\java\cl\edutech\ms_permisos\model\entity\RolPermisoEntity.java
+C:\Users\Family\Desktop\ms-permisos (2)\ms-permisos\src\main\java\cl\edutech\ms_permisos\MsPermisosApplication.java
+C:\Users\Family\Desktop\ms-permisos (2)\ms-permisos\src\main\java\cl\edutech\ms_permisos\repository\PermisoRepository.java
+C:\Users\Family\Desktop\ms-permisos (2)\ms-permisos\src\main\java\cl\edutech\ms_permisos\repository\RolPermisoRepository.java
+C:\Users\Family\Desktop\ms-permisos (2)\ms-permisos\src\main\java\cl\edutech\ms_permisos\repository\RolRepository.java
+C:\Users\Family\Desktop\ms-permisos (2)\ms-permisos\src\main\java\cl\edutech\ms_permisos\service\impl\PermisoServiceImpl.java
+C:\Users\Family\Desktop\ms-permisos (2)\ms-permisos\src\main\java\cl\edutech\ms_permisos\service\impl\RolServiceImpl.java
+C:\Users\Family\Desktop\ms-permisos (2)\ms-permisos\src\main\java\cl\edutech\ms_permisos\service\PermisoService.java
+C:\Users\Family\Desktop\ms-permisos (2)\ms-permisos\src\main\java\cl\edutech\ms_permisos\service\RolService.java

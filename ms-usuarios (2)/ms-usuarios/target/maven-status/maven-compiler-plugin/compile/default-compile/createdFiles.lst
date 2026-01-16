@@ -1,0 +1,6 @@
+cl\edutech\ms_usuarios\service\impl\UsuarioServiceImpl.class
+cl\edutech\ms_usuarios\model\dto\UsuarioRequestDTO$UsuarioRequestDTOBuilder.class
+cl\edutech\ms_usuarios\service\UsuarioService.class
+cl\edutech\ms_usuarios\model\entity\UsuarioEntity.class
+cl\edutech\ms_usuarios\model\entity\UsuarioEntity$UsuarioEntityBuilder.class
+cl\edutech\ms_usuarios\model\dto\UsuarioRequestDTO.class
